@@ -1,0 +1,65 @@
+{
+    "Surfer": {
+        "checkpoints": [
+            {
+                "steps": 4849989,
+                "file_path": "results\\Surf1\\Surfer\\Surfer-4849989.onnx",
+                "reward": 2009.099022433839,
+                "creation_time": 1688423382.3908956,
+                "auxillary_file_paths": [
+                    "results\\Surf1\\Surfer\\Surfer-4849989.pt"
+                ]
+            },
+            {
+                "steps": 4899972,
+                "file_path": "results\\Surf1\\Surfer\\Surfer-4899972.onnx",
+                "reward": 2622.1997684107887,
+                "creation_time": 1688423430.3039153,
+                "auxillary_file_paths": [
+                    "results\\Surf1\\Surfer\\Surfer-4899972.pt"
+                ]
+            },
+            {
+                "steps": 4949981,
+                "file_path": "results\\Surf1\\Surfer\\Surfer-4949981.onnx",
+                "reward": 3010.904119491577,
+                "creation_time": 1688423481.1367872,
+                "auxillary_file_paths": [
+                    "results\\Surf1\\Surfer\\Surfer-4949981.pt"
+                ]
+            },
+            {
+                "steps": 4999979,
+                "file_path": "results\\Surf1\\Surfer\\Surfer-4999979.onnx",
+                "reward": 3003.600937962532,
+                "creation_time": 1688423539.239808,
+                "auxillary_file_paths": [
+                    "results\\Surf1\\Surfer\\Surfer-4999979.pt"
+                ]
+            },
+            {
+                "steps": 5000107,
+                "file_path": "results\\Surf1\\Surfer\\Surfer-5000107.onnx",
+                "reward": 3003.600937962532,
+                "creation_time": 1688423539.3108084,
+                "auxillary_file_paths": [
+                    "results\\Surf1\\Surfer\\Surfer-5000107.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000107,
+            "file_path": "results\\Surf1\\Surfer.onnx",
+            "reward": 3003.600937962532,
+            "creation_time": 1688423539.3108084,
+            "auxillary_file_paths": [
+                "results\\Surf1\\Surfer\\Surfer-5000107.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

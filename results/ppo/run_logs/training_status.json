@@ -1,0 +1,65 @@
+{
+    "Surfer": {
+        "checkpoints": [
+            {
+                "steps": 3499988,
+                "file_path": "results\\ppo\\Surfer\\Surfer-3499988.onnx",
+                "reward": 50.0,
+                "creation_time": 1688277329.55356,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Surfer\\Surfer-3499988.pt"
+                ]
+            },
+            {
+                "steps": 3999952,
+                "file_path": "results\\ppo\\Surfer\\Surfer-3999952.onnx",
+                "reward": null,
+                "creation_time": 1688277830.2057233,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Surfer\\Surfer-3999952.pt"
+                ]
+            },
+            {
+                "steps": 4499951,
+                "file_path": "results\\ppo\\Surfer\\Surfer-4499951.onnx",
+                "reward": null,
+                "creation_time": 1688278329.682681,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Surfer\\Surfer-4499951.pt"
+                ]
+            },
+            {
+                "steps": 4999937,
+                "file_path": "results\\ppo\\Surfer\\Surfer-4999937.onnx",
+                "reward": null,
+                "creation_time": 1688278836.5528393,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Surfer\\Surfer-4999937.pt"
+                ]
+            },
+            {
+                "steps": 5000001,
+                "file_path": "results\\ppo\\Surfer\\Surfer-5000001.onnx",
+                "reward": null,
+                "creation_time": 1688278836.5888405,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Surfer\\Surfer-5000001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000001,
+            "file_path": "results\\ppo\\Surfer.onnx",
+            "reward": null,
+            "creation_time": 1688278836.5888405,
+            "auxillary_file_paths": [
+                "results\\ppo\\Surfer\\Surfer-5000001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
